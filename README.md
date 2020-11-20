@@ -1,6 +1,6 @@
 # fair[&]smart - consent iframe integration test
 
-Some code to demonstrate and check a consent form lifecycle.
+Some code to demonstrate and check the lifecycle of a concent form created using Fair and Smart Right Consent platform.
 
 ## in a nutshell
 * put your own values (organization ID, model ID etc ...) in config.ini ;
